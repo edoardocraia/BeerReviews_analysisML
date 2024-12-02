@@ -1,0 +1,17 @@
+Valori mancanti per colonna:
+brewery_id                0
+brewery_name             15
+review_time               0
+review_overall            0
+review_aroma              0
+review_appearance         0
+review_profilename      348
+beer_style                0
+review_palate             0
+review_taste              0
+beer_name                 0
+beer_abv              67785
+beer_beerid               0
+beer_style_encoded        0
+brewery_encoded           0
+
